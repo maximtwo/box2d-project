@@ -223,6 +223,7 @@
     <ClInclude Include="..\..\Testbed\Tests\CollisionProcessing.h" />
     <ClInclude Include="..\..\Testbed\Tests\CompoundShapes.h" />
     <ClInclude Include="..\..\Testbed\Tests\Confined.h" />
+    <ClInclude Include="..\..\Testbed\Tests\ConstantVolumeJoint.h" />
     <ClInclude Include="..\..\Testbed\Tests\ContinuousTest.h" />
     <ClInclude Include="..\..\Testbed\Tests\ConvexHull.h" />
     <ClInclude Include="..\..\Testbed\Tests\ConveyorBelt.h" />

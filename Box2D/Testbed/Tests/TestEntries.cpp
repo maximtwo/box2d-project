@@ -70,9 +70,11 @@
 #include "VaryingRestitution.h"
 #include "VerticalStack.h"
 #include "Web.h"
+#include "ConstantVolumeJoint.h"
 
 TestEntry g_testEntries[] =
 {
+	{"Constant Volume Joint", ConstantVolumeJoint::Create},
 	{"Tiles", Tiles::Create},
 	{"Heavy on Light", HeavyOnLight::Create},
 	{"Heavy on Light Two", HeavyOnLightTwo::Create},
